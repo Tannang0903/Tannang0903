@@ -1,10 +1,13 @@
+<h1>Hi! I am Nang</h1>
+<span>I'm a front-end developer</span>
 <h2>Technologies and Tools</h2>
+
+<div style="display:flex;">
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo"
         title="JavaScript" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo"
-        title="ReactJS" height="25" /></span>
+title="ReactJS" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo"
@@ -33,6 +36,8 @@
         alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
+</div>
+
 <br>
 <h2>GitHub Stats</h2>
 <br>
@@ -48,7 +53,7 @@
 <br>
 <h2>Find me</h2>
 <br>
-<div>
+<div style="display: flex;">
   <a href="https://www.facebook.com/tn.9.3.02/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
