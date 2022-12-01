@@ -8,8 +8,6 @@
         title="JavaScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo"
         title="ReactJS" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo"
-        title="Vue.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
         alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5"
@@ -26,10 +24,10 @@
 
 <h2>GitHub Stats</h2>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Tannang0903">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannang0903&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Tannang0903">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Tannang0903&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
