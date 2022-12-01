@@ -1,5 +1,6 @@
 <h1>Hi! I am Nang</h1>
 <span>I'm a front-end developer</span>
+<span>I’m studying at <a href = "https://www.facebook.com/bachkhoaDUT">Trường Đại học Bách Khoa - Đại học Đà Nẵng</a></span>
 <h2>Technologies and Tools</h2>
 
 <div style="display:flex;">
